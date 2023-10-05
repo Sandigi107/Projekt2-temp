@@ -25,8 +25,8 @@ Detta projekt syftar till att skapa ett program som använder en Raspberry Pi Pi
 
 # Användning
 
-- Koden läser av temperatursensorer och visar resultaten i terminalen: <unit id>  <mätvärde> <sensor id> 
+- Koden läser av temperatursensorer och visar resultaten i terminalen: `<unit id>  <mätvärde> <sensor id>` 
 
-- <unit id> är en unik identifierare för din Pico.
+- `<unit id>` är en unik identifierare för din Pico.
 - <mätvärde> är den avlästa temperaturen.
-- <sensor id> är en unik identifierare för varje ansluten temperatursensor.
+- `<sensor id>` är en unik identifierare för varje ansluten temperatursensor.
